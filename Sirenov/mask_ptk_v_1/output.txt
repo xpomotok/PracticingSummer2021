@@ -1,0 +1,528 @@
+==================
+Test case ¹ 1
+Input data:
+pfi_ptk = 1
+n_gr_skd = 0
+Random masks:
+mask_dgr[0] = 7
+mask_dgr[1] = 0
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 1
+Mask_Gr_Vu = 5
+mask_dgrd[0] = 5, mask_dgrd[1] = 2, mask_dgrd[2] = 1, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 1, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 2
+Input data:
+pfi_ptk = 2
+n_gr_skd = 0
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 7
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 1
+Mask_Gr_Vu = 5
+mask_dgrd[0] = 5, mask_dgrd[1] = 2, mask_dgrd[2] = 1, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 1, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 3
+Input data:
+pfi_ptk = 3
+n_gr_skd = 0
+Random masks:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 1
+Mask_Gr_Vu = 5
+mask_dgrd[0] = 5, mask_dgrd[1] = 2, mask_dgrd[2] = 1, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 1, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 4
+Input data:
+pfi_ptk = 4
+n_gr_skd = 0
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 0
+mask_dgr[2] = 7
+Input mas:
+mas_in0[0] = 7, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 1
+Mask_Gr_Vu = 5
+mask_dgrd[0] = 5, mask_dgrd[1] = 2, mask_dgrd[2] = 1, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 1, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 5
+Input data:
+pfi_ptk = 5
+n_gr_skd = 0
+Random masks:
+mask_dgr[0] = 3
+mask_dgr[1] = 0
+mask_dgr[2] = 4
+Input mas:
+mas_in0[0] = 4, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 1
+Mask_Gr_Vu = 5
+mask_dgrd[0] = 5, mask_dgrd[1] = 2, mask_dgrd[2] = 1, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 1, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 6
+Input data:
+pfi_ptk = 6
+n_gr_skd = 0
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 3
+mask_dgr[2] = 4
+Input mas:
+mas_in0[0] = 4, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 1
+Mask_Gr_Vu = 5
+mask_dgrd[0] = 5, mask_dgrd[1] = 2, mask_dgrd[2] = 1, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 1, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 7
+Input data:
+pfi_ptk = 7
+n_gr_skd = 0
+Random masks:
+mask_dgr[0] = 1
+mask_dgr[1] = 2
+mask_dgr[2] = 4
+Input mas:
+mas_in0[0] = 4, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 1
+Mask_Gr_Vu = 5
+mask_dgrd[0] = 5, mask_dgrd[1] = 2, mask_dgrd[2] = 1, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 1, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 8
+Input data:
+pfi_ptk = 8
+n_gr_skd = 0
+Random masks:
+mask_dgr[0] = 7
+mask_dgr[1] = 0
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 1
+Mask_Gr_Vu = 5
+mask_dgrd[0] = 5, mask_dgrd[1] = 2, mask_dgrd[2] = 1, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 1, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 9
+Input data:
+pfi_ptk = 1
+n_gr_skd = 1
+Random masks:
+mask_dgr[0] = 7
+mask_dgr[1] = 0
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 4
+mask_dgr[2] = 2
+Mask_Gr_Vu = 4
+mask_dgrd[0] = 5, mask_dgrd[1] = 4, mask_dgrd[2] = 2, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 2, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 10
+Input data:
+pfi_ptk = 2
+n_gr_skd = 1
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 7
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 4
+mask_dgr[2] = 2
+Mask_Gr_Vu = 4
+mask_dgrd[0] = 5, mask_dgrd[1] = 4, mask_dgrd[2] = 2, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 2, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 11
+Input data:
+pfi_ptk = 3
+n_gr_skd = 1
+Random masks:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 4
+mask_dgr[2] = 2
+Mask_Gr_Vu = 4
+mask_dgrd[0] = 5, mask_dgrd[1] = 4, mask_dgrd[2] = 2, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 2, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 12
+Input data:
+pfi_ptk = 4
+n_gr_skd = 1
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 0
+mask_dgr[2] = 7
+Input mas:
+mas_in0[0] = 7, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 4
+mask_dgr[2] = 2
+Mask_Gr_Vu = 4
+mask_dgrd[0] = 5, mask_dgrd[1] = 4, mask_dgrd[2] = 2, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 2, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 13
+Input data:
+pfi_ptk = 5
+n_gr_skd = 1
+Random masks:
+mask_dgr[0] = 3
+mask_dgr[1] = 0
+mask_dgr[2] = 4
+Input mas:
+mas_in0[0] = 4, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 4
+mask_dgr[2] = 2
+Mask_Gr_Vu = 4
+mask_dgrd[0] = 5, mask_dgrd[1] = 4, mask_dgrd[2] = 2, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 2, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 14
+Input data:
+pfi_ptk = 6
+n_gr_skd = 1
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 3
+mask_dgr[2] = 4
+Input mas:
+mas_in0[0] = 4, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 4
+mask_dgr[2] = 2
+Mask_Gr_Vu = 4
+mask_dgrd[0] = 5, mask_dgrd[1] = 4, mask_dgrd[2] = 2, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 2, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 15
+Input data:
+pfi_ptk = 7
+n_gr_skd = 1
+Random masks:
+mask_dgr[0] = 1
+mask_dgr[1] = 2
+mask_dgr[2] = 4
+Input mas:
+mas_in0[0] = 4, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 4
+mask_dgr[2] = 2
+Mask_Gr_Vu = 4
+mask_dgrd[0] = 5, mask_dgrd[1] = 4, mask_dgrd[2] = 2, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 2, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 16
+Input data:
+pfi_ptk = 8
+n_gr_skd = 1
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 7
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 4
+mask_dgr[2] = 2
+Mask_Gr_Vu = 4
+mask_dgrd[0] = 5, mask_dgrd[1] = 4, mask_dgrd[2] = 2, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 2, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 17
+Input data:
+pfi_ptk = 1
+n_gr_skd = 2
+Random masks:
+mask_dgr[0] = 7
+mask_dgr[1] = 0
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 1
+mask_dgr[2] = 3
+Mask_Gr_Vu = 3
+mask_dgrd[0] = 5, mask_dgrd[1] = 1, mask_dgrd[2] = 3, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 3, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 18
+Input data:
+pfi_ptk = 2
+n_gr_skd = 2
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 7
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 1
+mask_dgr[2] = 3
+Mask_Gr_Vu = 3
+mask_dgrd[0] = 5, mask_dgrd[1] = 1, mask_dgrd[2] = 3, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 3, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 19
+Input data:
+pfi_ptk = 3
+n_gr_skd = 2
+Random masks:
+mask_dgr[0] = 5
+mask_dgr[1] = 2
+mask_dgr[2] = 0
+Input mas:
+mas_in0[0] = 0, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 1
+mask_dgr[2] = 3
+Mask_Gr_Vu = 3
+mask_dgrd[0] = 5, mask_dgrd[1] = 1, mask_dgrd[2] = 3, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 3, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 20
+Input data:
+pfi_ptk = 4
+n_gr_skd = 2
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 0
+mask_dgr[2] = 7
+Input mas:
+mas_in0[0] = 7, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 1
+mask_dgr[2] = 3
+Mask_Gr_Vu = 3
+mask_dgrd[0] = 5, mask_dgrd[1] = 1, mask_dgrd[2] = 3, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 3, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 21
+Input data:
+pfi_ptk = 5
+n_gr_skd = 2
+Random masks:
+mask_dgr[0] = 3
+mask_dgr[1] = 0
+mask_dgr[2] = 4
+Input mas:
+mas_in0[0] = 4, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 1
+mask_dgr[2] = 3
+Mask_Gr_Vu = 3
+mask_dgrd[0] = 5, mask_dgrd[1] = 1, mask_dgrd[2] = 3, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 3, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 22
+Input data:
+pfi_ptk = 6
+n_gr_skd = 2
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 3
+mask_dgr[2] = 4
+Input mas:
+mas_in0[0] = 4, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 1
+mask_dgr[2] = 3
+Mask_Gr_Vu = 3
+mask_dgrd[0] = 5, mask_dgrd[1] = 1, mask_dgrd[2] = 3, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 3, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 23
+Input data:
+pfi_ptk = 7
+n_gr_skd = 2
+Random masks:
+mask_dgr[0] = 1
+mask_dgr[1] = 2
+mask_dgr[2] = 4
+Input mas:
+mas_in0[0] = 4, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 1
+mask_dgr[2] = 3
+Mask_Gr_Vu = 3
+mask_dgrd[0] = 5, mask_dgrd[1] = 1, mask_dgrd[2] = 3, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 3, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+==================
+Test case ¹ 24
+Input data:
+pfi_ptk = 8
+n_gr_skd = 2
+Random masks:
+mask_dgr[0] = 0
+mask_dgr[1] = 0
+mask_dgr[2] = 7
+Input mas:
+mas_in0[0] = 7, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
+Output data:
+mask_dgr[0] = 5
+mask_dgr[1] = 1
+mask_dgr[2] = 3
+Mask_Gr_Vu = 3
+mask_dgrd[0] = 5, mask_dgrd[1] = 1, mask_dgrd[2] = 3, mask_dgrd[3] = 0, mask_dgrd[4] = 0
+mas_in0[0] = 3, mas_in0[1] = 33, mas_in0[2] = 5, mas_in0[3] = 2, mas_in0[4] = 1
+mas_in1[0] = 9, mas_in1[1] = 33, mas_in1[2] = 5, mas_in1[3] = 4, mas_in1[4] = 2
+mas_in2[0] = 9, mas_in2[1] = 5, mas_in2[2] = 6, mas_in2[3] = 1, mas_in2[4] = 3
