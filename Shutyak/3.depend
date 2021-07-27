@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1627286956 source:z:\practika\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Z:\Practika\3\dm5.h>
+	<string.h>
+	<dirent.h>
+
