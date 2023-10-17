@@ -2,7 +2,7 @@
 
 Shiny-octo-pancake
 
-Inctructions:
+Instructions:
 
 1. Clone this repository
 2. Put your files in directory that matches your name
